@@ -29,7 +29,7 @@ A visually stunning, fully functional Kanban board built with **React** and **Vi
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/kanban-board.git
+git clone https://github.com/AbdulRazak-dev/kanban-board.git
 cd kanban-board
 
 # 2. Install dependencies
